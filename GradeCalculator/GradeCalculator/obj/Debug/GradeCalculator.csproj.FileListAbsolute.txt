@@ -1,0 +1,9 @@
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.Form1.resources
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.GenerateResource.Cache
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+\\banner.main.ad.rit.edu\students\pvb2147\IGMProfile\Desktop\IGME102\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb
